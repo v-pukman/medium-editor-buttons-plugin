@@ -1,1 +1,1 @@
-//=require medium-button/medium-button.min
+//= require medium-button/medium-button.min

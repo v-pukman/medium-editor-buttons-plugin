@@ -11,16 +11,10 @@ The latest version of plugin bundled by this gem is [v1.1.2](https://github.com/
 Include **medium-editor-buttons-rails** in your Rails project's Gemfile:
 
 ```ruby
-gem 'medium-editor-rails'
-gem 'medium-editor-buttons-rails'
+gem 'medium-editor'
+gem 'medium-editor-buttons-plugin'
 ```
 
-And then execute:
-
-```bash
-bundle install
-bundle exec rake buttons_plugin:update
-```
 
 ## Configuration
 
@@ -72,7 +66,7 @@ Initialize Medium Editor and add Buttons Plugin inside configuration:
 
 ## Contributing
 
-1. Fork it ( https://github.com/mwlang/medium-editor-buttons-rails/fork )
+1. Fork it ( https://github.com/mwlang/medium-editor-buttons-plugin/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
